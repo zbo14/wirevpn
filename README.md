@@ -2,7 +2,7 @@
 
 This project is a continuation of [diy-vpn](https://github.com/zbo14/diy-vpn), which contains instructions and tools to run personal [OpenVPN](https://openvpn.net/) and [WireGuard](https://www.wireguard.com/) VPNs.
 
-I created this repo because I wanted (1) a dedicated project for WireGuard, and (2) to incorporate wish-list features that were beyond the scope of the original proof-of-concept. I *could* have made these changes to `diy-vpn`, but rather than subject the repo to an indeterminate amount of trial-and-error, I thought it better to experiment in a separate repo.
+I created this repo because (1) I wanted a dedicated project for WireGuard, and (2) I wanted to incorporate wishlist features that were beyond the scope of the original proof-of-concept. I *could* have made these changes to `diy-vpn`, but rather than subject the repo to an indeterminate amount of trial-and-error, I thought it better to experiment in separate repos.
 
 The aforementioned features include:
 * Use of pre-shared keys as an additional layer of symmetric encryption (e.g. for post-quantum resistance)
